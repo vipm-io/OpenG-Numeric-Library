@@ -1,0 +1,1 @@
+This release (1) adds 100% unit test coverage during library build and (2) adds BSD licensing of library VIs.
