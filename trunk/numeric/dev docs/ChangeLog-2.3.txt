@@ -1,2 +1,0 @@
-2007-01-01 
-[MOD] Changed license from LGPL to BSD
