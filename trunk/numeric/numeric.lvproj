@@ -25,8 +25,14 @@
 			</Item>
 			<Item Name="install scripts" Type="Folder"/>
 			<Item Name="library" Type="Folder">
+				<Item Name="Random Number Within Range" Type="Folder">
+					<Item Name="Random Number - Within Range.vi" Type="VI" URL="../source/library/Random Number Within Range/Random Number - Within Range.vi"/>
+					<Item Name="Random Number Within Range - DBL.vi" Type="VI" URL="../source/library/Random Number Within Range/Random Number Within Range - DBL.vi"/>
+					<Item Name="Random Number Within Range - I32.vi" Type="VI" URL="../source/library/Random Number Within Range/Random Number Within Range - I32.vi"/>
+				</Item>
 				<Item Name="Coerce to Enum.vi" Type="VI" URL="../source/library/Coerce to Enum.vi"/>
-				<Item Name="Random Number - Within Range.vi" Type="VI" URL="../source/library/Random Number - Within Range.vi"/>
+				<Item Name="Random Number Within Range.vi" Type="VI" URL="../source/library/Random Number Within Range.vi"/>
+				<Item Name="Timestamp Constant.vi" Type="VI" URL="../source/library/Timestamp Constant.vi"/>
 				<Item Name="VI Tree - numeric.vi" Type="VI" URL="../source/library/VI Tree - numeric.vi"/>
 			</Item>
 			<Item Name="user docs" Type="Folder">
@@ -37,9 +43,9 @@
 		</Item>
 		<Item Name="tests" Type="Folder">
 			<Item Name="exclused_vis.txt" Type="Document" URL="../tests/exclused_vis.txt"/>
-			<Item Name="TEST - Random Number - Within Range.vi" Type="VI" URL="../tests/TEST - Random Number - Within Range.vi"/>
 			<Item Name="TEST - TEMPLATE_SCALAR.vit" Type="VI" URL="../tests/TEST - TEMPLATE_SCALAR.vit"/>
 			<Item Name="TEST - TEMPLATE_VECTOR.vit" Type="VI" URL="../tests/TEST - TEMPLATE_VECTOR.vit"/>
+			<Item Name="TEST - Random Number Within Range.vi" Type="VI" URL="../tests/TEST - Random Number Within Range.vi"/>
 		</Item>
 		<Item Name="test.vi" Type="VI" URL="../test.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
@@ -332,6 +338,9 @@
 				<Item Name="Trim Whitespace__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/string/string.llb/Trim Whitespace__ogtk.vi"/>
 				<Item Name="Trim Whitespace (String)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/string/string.llb/Trim Whitespace (String)__ogtk.vi"/>
 				<Item Name="Trim Whitespace (String Array)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/string/string.llb/Trim Whitespace (String Array)__ogtk.vi"/>
+				<Item Name="Compare Two Paths - Array__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/file/file.llb/Compare Two Paths - Array__ogtk.vi"/>
+				<Item Name="Compare Two Paths - Path1 Array__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/file/file.llb/Compare Two Paths - Path1 Array__ogtk.vi"/>
+				<Item Name="Compare Two Paths - Path2 Array__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/file/file.llb/Compare Two Paths - Path2 Array__ogtk.vi"/>
 			</Item>
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Merge Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Merge Errors.vi"/>
