@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="0.3" Created_Date="2010-12-17 15:35:35" Modified_Date="2011-10-15 18:49:05" Creator="Jonathon Green" Comments="" ID="3b42b2c66d61ea6323aba321874288a5">
+<VI_Package_Builder_Settings Version="0.3" Created_Date="2010-12-17 15:35:35" Modified_Date="2011-10-20 01:29:47" Creator="Jonathon Green" Comments="" ID="e80992df5f32c7a10629ba1eeb168aed">
   <Library_General_Settings>
     <Package_File_Name>oglib_numeric</Package_File_Name>
     <Library_Version>4.1.0.9</Library_Version>
@@ -28,7 +28,7 @@
     <Description>
       <One_Line_Description_Summary>OpenG Numeric Library</One_Line_Description_Summary>
       <Description>The OpenG Numeric Library package contains several routines for operating on numeric data.</Description>
-      <Copyright>2002-2003 Jean-Pierre Drolet, Jim Kring; 2010-2011 Jonathon Green</Copyright>
+      <Copyright>2002-2003 Jean-Pierre Drolet; Jim Kring; 2010-2011 Jonathon Green; 2011 Ed Dickens</Copyright>
       <Packager>OpenG.org</Packager>
       <URL>http://wiki.openg.org/Oglib_numeric</URL>
       <Release_Notes>[MOD] 3419758 - Create new Random Number Within Range - I32 VI
