@@ -26,17 +26,9 @@
 			<Item Name="images" Type="Folder">
 				<Item Name="icon.png" Type="Document" URL="../source/images/icon.png"/>
 			</Item>
-			<Item Name="install scripts" Type="Folder"/>
 			<Item Name="library" Type="Folder">
-				<Item Name="Random Number Within Range" Type="Folder">
-					<Item Name="Random Number - Within Range.vi" Type="VI" URL="../source/library/Random Number Within Range/Random Number - Within Range.vi"/>
-					<Item Name="Random Number Within Range - DBL.vi" Type="VI" URL="../source/library/Random Number Within Range/Random Number Within Range - DBL.vi"/>
-					<Item Name="Random Number Within Range - I32.vi" Type="VI" URL="../source/library/Random Number Within Range/Random Number Within Range - I32.vi"/>
-				</Item>
-				<Item Name="Coerce to Enum.vi" Type="VI" URL="../source/library/Coerce to Enum.vi"/>
-				<Item Name="Random Number Within Range.vi" Type="VI" URL="../source/library/Random Number Within Range.vi"/>
-				<Item Name="Timestamp Constant.vi" Type="VI" URL="../source/library/Timestamp Constant.vi"/>
 				<Item Name="VI Tree - numeric.vi" Type="VI" URL="../source/library/VI Tree - numeric.vi"/>
+				<Item Name="openg_numeric.lvlib" Type="Library" URL="../source/library/openg_numeric.lvlib"/>
 			</Item>
 			<Item Name="user docs" Type="Folder">
 				<Item Name="License Agreement.txt" Type="Document" URL="../source/user docs/License Agreement.txt"/>
@@ -69,6 +61,7 @@
 				<Item Name="List Directory and LLBs.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/List Directory and LLBs.vi"/>
 			</Item>
 			<Item Name="Get Todo Bookmarks.vi" Type="VI" URL="../build support/Get Todo Bookmarks.vi"/>
+			<Item Name="Random Number - Within Range.vi" Type="VI" URL="../source/library/Random Number Within Range/Random Number - Within Range.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
