@@ -36,6 +36,7 @@ Take a look at the [Help Wanted](https://github.com/vipm-io/OpenG-Numeric-Librar
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/orkopolo"><img src="https://avatars.githubusercontent.com/u/1466701?v=4?s=100" width="100px;" alt="orkopolo"/><br /><sub><b>orkopolo</b></sub></a><br /><a href="#code-orkopolo" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/justingoeres"><img src="https://avatars.githubusercontent.com/u/17071464?v=4?s=100" width="100px;" alt="Justin Goeres"/><br /><sub><b>Justin Goeres</b></sub></a><br /><a href="#code-justingoeres" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
