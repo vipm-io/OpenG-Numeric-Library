@@ -47,7 +47,6 @@
       "contributions": [
         "code"
       ]
-
     },
     {
       "login": "tcplomp",
@@ -63,6 +62,15 @@
       "name": "Tomi Maila",
       "avatar_url": "https://avatars.githubusercontent.com/u/876232?v=4",
       "profile": "https://github.com/tmaila",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "philippe-guerit",
+      "name": "philippe-guerit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11684645?v=4",
+      "profile": "https://github.com/philippe-guerit",
       "contributions": [
         "code"
       ]
