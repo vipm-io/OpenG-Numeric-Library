@@ -1,3 +1,0 @@
-VI Tree - numeric.vi
-Coerce to Enum.vi
-Timestamp Constant.vi
