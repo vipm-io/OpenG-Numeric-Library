@@ -32,6 +32,7 @@ Take a look at the [Help Wanted](https://github.com/vipm-io/OpenG-Numeric-Librar
       <td align="center" valign="top" width="14.28%"><a href="http://blog.kalbermatter.nl"><img src="https://avatars.githubusercontent.com/u/15158041?v=4?s=100" width="100px;" alt="Rolf Kalbermatter"/><br /><sub><b>Rolf Kalbermatter</b></sub></a><br /><a href="#code-RolfKal" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/tcplomp"><img src="https://avatars.githubusercontent.com/u/2871661?v=4?s=100" width="100px;" alt="tcplomp"/><br /><sub><b>tcplomp</b></sub></a><br /><a href="#code-tcplomp" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/tmaila"><img src="https://avatars.githubusercontent.com/u/876232?v=4?s=100" width="100px;" alt="Tomi Maila"/><br /><sub><b>Tomi Maila</b></sub></a><br /><a href="#code-tmaila" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/philippe-guerit"><img src="https://avatars.githubusercontent.com/u/11684645?v=4?s=100" width="100px;" alt="philippe-guerit"/><br /><sub><b>philippe-guerit</b></sub></a><br /><a href="#code-philippe-guerit" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
