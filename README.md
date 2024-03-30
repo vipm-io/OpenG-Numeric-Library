@@ -30,6 +30,7 @@ Take a look at the [Help Wanted](https://github.com/vipm-io/OpenG-Numeric-Librar
       <td align="center" valign="top" width="14.28%"><a href="http://www.jgcode.net"><img src="https://avatars.githubusercontent.com/u/16163577?v=4?s=100" width="100px;" alt="Jonathon Green"/><br /><sub><b>Jonathon Green</b></sub></a><br /><a href="#code-jg-code" title="Code">💻</a> <a href="#test-jg-code" title="Tests">⚠️</a> <a href="#maintenance-jg-code" title="Maintenance">🚧</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Bas-vE"><img src="https://avatars.githubusercontent.com/u/16207111?v=4?s=100" width="100px;" alt="Basve"/><br /><sub><b>Basve</b></sub></a><br /><a href="#maintenance-Bas-vE" title="Maintenance">🚧</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/tcplomp"><img src="https://avatars.githubusercontent.com/u/2871661?v=4?s=100" width="100px;" alt="tcplomp"/><br /><sub><b>tcplomp</b></sub></a><br /><a href="#code-tcplomp" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/tmaila"><img src="https://avatars.githubusercontent.com/u/876232?v=4?s=100" width="100px;" alt="Tomi Maila"/><br /><sub><b>Tomi Maila</b></sub></a><br /><a href="#code-tmaila" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
